@@ -1,6 +1,6 @@
 # Research Paper Status
 
-Welcome to the **Research Paper Status** repository! This repository provides real-time updates on the status of my research papers that are currently under peer review. I have created this repository to keep interested parties, including admissions committees and the academic community, informed about the status of the submissions irrespective of the outcomes.
+Welcome to the **Research Paper Status** repository! This repository provides real-time updates on the status of my research papers that are currently under peer review. I have created this repository to keep interested parties, including admissions committees and the academic community, informed about the status of the submissions. I will update the results here irrespective of the outcomes.
 
 ---
 
