@@ -10,7 +10,7 @@ Welcome to the **Research Paper Status** repository! This repository provides re
    - Rhugved Chaudhari, Bhakti Jadhav, Pushpak Bhattacharyya, Malhar Kulkarni
    - **Venue**: ICON 2024 [https://au-kbc.org/icon2024/]
    - **Status**: Under Peer Review  
-   - **Expected Notification Date**: November 27, 2024
+   - **Expected Notification Date**: November 30, 2024
 
 ### 2. **ASRO: Sign-Based Optimization for Stochastic Learning**
    - Rhugved Chaudhari, Yashodhara Haribhakta
