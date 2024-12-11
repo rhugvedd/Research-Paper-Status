@@ -10,17 +10,18 @@ Welcome to the **Research Paper Status** repository! This repository provides re
    - Rhugved Chaudhari, Bhakti Jadhav, Pushpak Bhattacharyya, Malhar Kulkarni
    - **Venue**: ICON 2024 [https://au-kbc.org/icon2024/]
    - **Status**: **Accepted**
-   - **Expected Notification Date**: Resulted was conveyed on December 6, 2024
+   - **Notification Date**: Resulted was conveyed on December 6, 2024
 
 ---
 
-## 📚 Current Papers Under Review
+## 📚 Submitted Papers and Decisions
 
 ### 1. **ASRO: Sign-Based Optimization for Stochastic Learning**
    - Rhugved Chaudhari, Yashodhara Haribhakta
    - **Venue**: AAAI 2025 [https://aaai.org/conference/aaai/aaai-25/]
-   - **Status**: Under Phase 2 Peer Review  
-   - **Expected Notification Date**: December 9, 2024  
+   - **Status**: Rejected at the final stage after phase 2 review and rebuttal
+   - **Notification Date**: December 10, 2024 (IST)
+   - **Note**: Please find the reviews and the rebuttal uploaded in this repository
 
 ---
 
