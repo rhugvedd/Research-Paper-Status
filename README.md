@@ -10,6 +10,7 @@ Welcome to the **Research Paper Status** repository! This repository provides re
    - Rhugved Chaudhari, Bhakti Jadhav, Pushpak Bhattacharyya, Malhar Kulkarni
    - **Venue**: ICON 2024 [https://au-kbc.org/icon2024/]
    - **Status**: **Accepted**
+   - **Read Paper**: [https://drive.google.com/file/d/1fhsneQL0Ed78fwa0xqI8G-8AZ9DdqFck/view?usp=sharing]
    - **Notification Date**: Resulted was conveyed on December 6, 2024
 
 ---
@@ -21,6 +22,7 @@ Welcome to the **Research Paper Status** repository! This repository provides re
    - **Venue**: AAAI 2025 [https://aaai.org/conference/aaai/aaai-25/]
    - **Status**: Rejected at the final stage after phase 2 review and rebuttal
    - **Notification Date**: December 10, 2024 (IST)
+   - **Read Paper**: [https://drive.google.com/file/d/1flJ4S1bpZmll_vAr4W2foVqAEZBnwONW/view?usp=sharing]
    - **Note**: Please find the reviews and the rebuttal uploaded in this repository
 
 ---
