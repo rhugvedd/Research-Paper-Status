@@ -20,7 +20,7 @@ Welcome to the **Research Paper Status** repository! This repository provides re
 ### 1. **ASRO: Sign-Based Optimization for Stochastic Learning**
    - Rhugved Chaudhari, Yashodhara Haribhakta
    - **Venue**: AAAI 2025 [https://aaai.org/conference/aaai/aaai-25/]
-   - **Status**: Rejected at the final stage after phase 2 review and rebuttal
+   - **Status**: The reviewers acknowledged the core concepts, algorithms, and their benefits, but the paper was not accepted after phase 2 and rebuttal due to page limit issues and more empirical evaluation requirements.
    - **Notification Date**: December 10, 2024 (IST)
    - **Read Paper**: [https://drive.google.com/file/d/1flJ4S1bpZmll_vAr4W2foVqAEZBnwONW/view?usp=sharing]
    - **Note**: Please find the reviews and the rebuttal uploaded in this repository
