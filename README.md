@@ -11,7 +11,7 @@ Welcome to the **Research Paper Status** repository! This repository provides re
    - **Venue**: ICON 2024 [https://au-kbc.org/icon2024/]
    - **Status**: **Accepted**
    - **Read Paper**: [https://drive.google.com/file/d/1fhsneQL0Ed78fwa0xqI8G-8AZ9DdqFck/view?usp=sharing]
-   - **Conference Presentation Certificate**: [Click Here](ICON Certificate - Rhugved Pankaj Chaudhari.pdf)
+   - **Conference Presentation Certificate**: [Click Here](https://github.com/rhugvedd/Research-Paper-Status/blob/master/ICON%202024%20Certificate%20-%20SansGPT%20-%20Rhugved%20Chaudhari.pdf)
    - **Notification Date**: Result was conveyed on December 6, 2024
 
 ---
@@ -23,7 +23,7 @@ Welcome to the **Research Paper Status** repository! This repository provides re
    - **Venue**: AAAI 2025 [https://aaai.org/conference/aaai/aaai-25/]
    - **Read Paper**: [https://drive.google.com/file/d/1flJ4S1bpZmll_vAr4W2foVqAEZBnwONW/view?usp=sharing]
    - **Status**: The reviewers acknowledged the core concepts, algorithms, and their benefits, but the paper was not accepted after phase 2 and rebuttal due to page limit issues and more empirical evaluation requirements.
-   - **Note**: Please find the [Reviews and the Rebuttal](OpenReview - ASRO Sign-Based Optimization for Stochastic Learning.pdf) uploaded in this repository
+   - **Note**: Please find the [Reviews and the Rebuttal](https://github.com/rhugvedd/Research-Paper-Status/blob/master/OpenReview%20-%20ASRO%20Sign-Based%20Optimization%20for%20Stochastic%20Learning.pdf) uploaded in this repository
    - **Notification Date**: December 10, 2024 (IST)
 
 ---
