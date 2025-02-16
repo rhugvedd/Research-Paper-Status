@@ -10,7 +10,7 @@ Welcome to the **Research Paper Status** repository! This repository provides re
    - Rhugved Chaudhari, Bhakti Jadhav, Pushpak Bhattacharyya, Malhar Kulkarni
    - **Venue**: ICON 2024 [https://au-kbc.org/icon2024/]
    - **Status**: **Accepted**
-   - **Published at ACL Anthology**: [Read Paper](https://aclanthology.org/2024.icon-1.50/)
+   - **Published at ACL Anthology**: [Click to read](https://aclanthology.org/2024.icon-1.50/)
    - **Conference Presentation Certificate**: [Click Here](https://github.com/rhugvedd/Research-Paper-Status/blob/master/ICON%202024%20Certificate%20-%20SansGPT%20-%20Rhugved%20Chaudhari.pdf)
    - **Notification Date**: Result was conveyed on December 6, 2024
 
