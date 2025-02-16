@@ -3,8 +3,11 @@
 Welcome to the **Research Paper Status** repository! This repository provides real-time updates on the status of my research papers. I have created this repository to keep interested parties, including admissions committees and the academic community, informed about the status of the submissions. I will update the results here irrespective of the outcomes.
 
 ---
+New! - SansGPT paper published in the ACL Anthology!
 
-## 📚 Accepted Papers
+---
+
+## 📚 Published Papers
 
 ### 1. **SansGPT: Advancing Generative Pre-Training in Sanskrit**
    - Rhugved Chaudhari, Bhakti Jadhav, Pushpak Bhattacharyya, Malhar Kulkarni
